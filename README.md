@@ -1,6 +1,4 @@
-# github-awesome-front-end-projects
-
-### GitHub 值得收藏的前端项目
+# GitHub 值得收藏的前端项目
 
 如果你觉得本文对你有帮助，可以点击下方赞助商广告(free)，give me a cup of coffee.thx 👇
 
